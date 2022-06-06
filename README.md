@@ -1,7 +1,5 @@
 ### Olá!!! Sou Luana Hamaishi 😀
 
-Here are some ideas to get you started:
-
 - 🔭 Atualmente eu estou trabalhando com front-end
 - 🌱 Estudando React e JavaScript, e atualmente fazendo cursos de UX/UI
 
