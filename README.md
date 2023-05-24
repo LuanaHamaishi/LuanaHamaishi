@@ -3,11 +3,6 @@
 - 🔭 Atualmente eu estou trabalhando com front-end
 - 🌱 Estudando React e JavaScript, e atualmente fazendo cursos de UX/UI
 
-<div align="center">
-  <a href="https://github.com/LuanaHamaishi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanaHamaishi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaHamaishi&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 
   ##
